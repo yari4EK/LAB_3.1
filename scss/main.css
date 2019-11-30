@@ -43,7 +43,11 @@
 .tabs__button {
   display: block;
   padding: 20px 30px;
-  background: #cfe2f3; }
+  background: #cfe2f3;
+  border: none;
+  width: 100%;
+  outline: none;
+  cursor: pointer; }
 
 .tabs__footer {
   padding: 30px 10px 10px;
