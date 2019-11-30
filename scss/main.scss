@@ -53,6 +53,10 @@ $contentColor: #d9d2e9;
     display: block;
     padding: 20px 30px;
     background: $sidebarColor;
+    border: none;
+    width: 100%;
+    outline: none;
+    cursor: pointer;
 }
 
 .tabs__footer {
